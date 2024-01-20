@@ -1,8 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Threads</h1>
-      <p>This is the onboarding page..</p>
+      <h1>Home</h1>
     </main>
   )
 }
